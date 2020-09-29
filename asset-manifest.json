@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Factory-Bazaar/static/css/main.df24737b.chunk.css",
+    "main.js": "/Factory-Bazaar/static/js/main.38378f23.chunk.js",
+    "main.js.map": "/Factory-Bazaar/static/js/main.38378f23.chunk.js.map",
+    "runtime-main.js": "/Factory-Bazaar/static/js/runtime-main.a3c900fd.js",
+    "runtime-main.js.map": "/Factory-Bazaar/static/js/runtime-main.a3c900fd.js.map",
+    "static/js/2.0f3c1465.chunk.js": "/Factory-Bazaar/static/js/2.0f3c1465.chunk.js",
+    "static/js/2.0f3c1465.chunk.js.map": "/Factory-Bazaar/static/js/2.0f3c1465.chunk.js.map",
+    "index.html": "/Factory-Bazaar/index.html",
+    "precache-manifest.ed4220dd3b33a7b6a4a2abe1015826a0.js": "/Factory-Bazaar/precache-manifest.ed4220dd3b33a7b6a4a2abe1015826a0.js",
+    "service-worker.js": "/Factory-Bazaar/service-worker.js",
+    "static/css/main.df24737b.chunk.css.map": "/Factory-Bazaar/static/css/main.df24737b.chunk.css.map",
+    "static/js/2.0f3c1465.chunk.js.LICENSE.txt": "/Factory-Bazaar/static/js/2.0f3c1465.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Factory-Bazaar/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3c900fd.js",
+    "static/js/2.0f3c1465.chunk.js",
+    "static/css/main.df24737b.chunk.css",
+    "static/js/main.38378f23.chunk.js"
+  ]
+}
